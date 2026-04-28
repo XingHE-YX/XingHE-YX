@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm IX (@XingHE-YX)
 
-<!--
-**XingHE-YX/XingHE-YX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **About Me**
+- 🎓 I'm an undergraduate student majoring in **Computer Science**.
+- 罗马数字读音: You can also call me **Ix** (pronounced as the Roman numeral IX).
+- 🦀 I love **Rust** (currently deep diving into it!) & **Python**.
+- 🛠️ I can code in **C**, **C++**, **Python**, **Dart**, and more.
 
-Here are some ideas to get you started:
+🐈 **Interests**
+- 🐾 I love everything related to **cats** because they are just incredibly cute, don't you think?
+- 📚 I enjoy reading **Light Novels** and **Sci-Fi**.
+- 🎵 I'm a big fan of **ACG music**, **Light music**, and **Instrumentals**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Reach Me Out**
+- 📧 Email: [2331613886@qq.com](mailto:2331613886@qq.com) / [xingheluqi56@gmail.com](mailto:xingheluqi56@gmail.com)
+- ✈️ Telegram: [t.me/Xing_HE_LUQI](https://t.me/Xing_HE_LUQI)
+
+---
+
+### 📊 My GitHub Stats
+
+[![XingHE-YX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingHE-YX&show_icons=true&theme=tokyonight)](https://github.com/XingHE-YX)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XingHE-YX&layout=compact&theme=tokyonight)](https://github.com/XingHE-YX)
+
+![Moe Counter](https://count.getloli.com/get/@XingHE-YX?theme=moebooru)
