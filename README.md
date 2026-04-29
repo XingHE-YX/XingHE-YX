@@ -21,6 +21,6 @@
 
 [![XingHE-YX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingHE-YX&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XingHE-YX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XingHE-YX&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Moe Counter](https://count.getloli.com/get/@XingHE-YX?theme=moebooru)
