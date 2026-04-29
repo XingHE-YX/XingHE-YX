@@ -24,3 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XingHE-YX&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Moe Counter](https://count.getloli.com/get/@XingHE-YX?theme=moebooru)
+---
+
+### 🧱 3D Contribution Graph
+![](./profile-3d-contrib/profile-night-view.svg)
