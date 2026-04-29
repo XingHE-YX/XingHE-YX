@@ -2,7 +2,7 @@
 
 ✨ **About Me**
 - 🎓 I'm an undergraduate student majoring in **Computer Science**.
-- 罗马数字读音: You can also call me **Ix** (pronounced as the Roman numeral IX).
+- You can also call me **Ix** (pronounced as the Roman numeral IX).
 - 🦀 I love **Rust** (currently deep diving into it!) & **Python**.
 - 🛠️ I can code in **C**, **C++**, **Python**, **Dart**, and more.
 
